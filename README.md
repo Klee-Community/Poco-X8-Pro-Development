@@ -11,8 +11,8 @@ Welcome to the central community repository for POCO X8 Pro (`klee`) custom soft
 
 | ROM Name | Base | Type | Notes | Download / Source |
 | :--- | :--- | :--- | :--- | :--- |
-| **Ximi DyperOS** | HyperOS 3.0.304.0 (CN) | Modded | Fastboot flashable. Includes Fenrir kernel. `NoModApp` build recommended for 8GB RAM. | [Download](https://pixeldrain.com/u/Dynnb2CA) / [Telegram Post](https://t.me/WorstDOSMod/283)
-| **HyperDot** | HyperOS 3.303.0 (ID) | Modded | Includes OrangeFox by default, debloated, modded system apps. Fenrir kernel flashable via OrangeFox Klee Tools. | [SourceForge](https://sourceforge.net/projects/hyperdot/files/HyperOS-STABLE-UPDATES/HyperOS3.0/HyperDot%20Klee%20OS3.303.0%20WPJIDXM.zip/download) / [Telegram Channel](https://t.me/MrDoubleR_Channel) |
+| **DyperOS** | HyperOS 3.0.304.0 (CN) | Modded | Fastboot flashable. Includes Fenrir kernel. `NoModApp` build recommended for 8GB RAM. | [Download](https://pixeldrain.com/u/Dynnb2CA) / [Telegram Post](https://t.me/WorstDOSMod/283)
+| **HyperDot** | HyperOS 3.0.303.0 (ID) | Modded | Includes OrangeFox by default, debloated, modded system apps. Fenrir kernel flashable via OrangeFox Klee Tools. | [SourceForge](https://sourceforge.net/projects/hyperdot/files/HyperOS-STABLE-UPDATES/HyperOS3.0/HyperDot%20Klee%20OS3.303.0%20WPJIDXM.zip/download) / [Telegram Channel](https://t.me/MrDoubleR_Channel) |
 | **ColorOS 16** | OnePlus Ace 5 Ultra | Port | Fastboot flashable. Enroll fingerprint twice. | [Download](https://drive.google.com/file/d/1LLo6mt5V8yyFlUOd45PWKs3VjGVWHGXj/view?usp=drive_link) / [Telegram Post](https://t.me/Poco_X8ProUpdates) |
 
 ## Development Resources
