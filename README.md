@@ -45,7 +45,7 @@ To pass Play Integrity (`MEETS_DEVICE_INTEGRITY`) when running root on custom RO
 | :--- | :--- | :--- | :--- |
 | **Keybox Spoofing** | **Tricky Store** | Bypasses hardware key attestation for high-security banking/enterprise apps | [GitHub](https://github.com/5ec1cff/TrickyStore) |
 | **App Isolation** | **Hide My Applist (HMA)** | Hides root apps (KernelSU Manager, Termux) from aggressive detectors | [GitHub](https://github.com/Dr-TSNG/Hide-My-Applist) |
-| **Safety Rescue** | **Bootloop Saver** | Auto-disables rogue modules if the phone fails to boot into Android | [GitHub](https://github.com/ZihaoR/Bootloop-Saver) |
+| **Safety Rescue** | **Yet Another Bootloop Protector (YABP)** | Auto-disables rogue modules if the phone fails to boot or SystemUI crashes | [GitHub](https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector) |
 | **Framework** | **LSPosed (Zygisk Release)** | Required to run system customization modules like HyperCeiler | [GitHub](https://github.com/mywalkb/LSPosed_mod) |
 
 ## Quick Troubleshooting & Common Issues
