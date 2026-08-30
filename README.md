@@ -13,15 +13,20 @@
 | **Infinity X** | Android 16 | [bezke](https://t.me/bezke1) | Integrated Fenrir for native integrity. Requires Fenrir boot/vendor_boot | [Download](https://projectinfinity-x.com/downloads/klee) / [Telegram Post](https://t.me/Poco_X8ProUpdates/13) |
 
 
-## Community ROMs
+## Community ROMs (AOSP)
 
 | Name | Platform | Maintainer | Notes | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| **DyperOS** | HyperOS 3.0.304.0 (CN) | [Fiqih Wijaya](https://t.me/Fiqih_wijaya) | Fastboot flashable. Includes Fenrir kernel. `NoModApp` build recommended for 8GB RAM. | [PixelDrain](https://pixeldrain.com/u/Dynnb2CA) / [Telegram Post](https://t.me/WorstDOSMod/283)
-| **HyperDot** | HyperOS 3.0.303.0 (ID) | [Raka Rizaldy](https://t.me/rakarizaldy) | Includes OrangeFox by default, debloated, modded system apps. Fenrir kernel flashable via OrangeFox Klee Tools. | [SourceForge](https://sourceforge.net/projects/hyperdot/files/HyperOS-STABLE-UPDATES/HyperOS3.0/HyperDot%20Klee%20OS3.303.0%20WPJIDXM.zip/download) / [Telegram Channel](https://t.me/MrDoubleR_Channel) |
-| **ColorOS** | ColorOS 16.0.9 | [KazeTheLight](https://t.me/KazeTheLight) | Ported from OnePlus Ace 5 Ultra. Fastboot flashable. Enroll fingerprint twice. | [Drive](https://drive.google.com/file/d/1LLo6mt5V8yyFlUOd45PWKs3VjGVWHGXj/view?usp=drive_link) / [Telegram Post](https://t.me/Poco_X8ProUpdates) |
 | **Shinkai** | Android 17 | [Khayloaf](https://t.me/khayloaf) | Community build (Heptakaideka). Signed & enforcing. GApps included; do not swap kernel. | [SourceForge](https://sourceforge.net/projects/kylieerom/files/Shinkai/heptakaideka/Shinkai-Project_klee-heptakaideka-20260829-1057.zip/download) / [PixelDrain](https://pixeldrain.com/u/3h7qr9RT) / [Telegram Post](https://t.me/Poco_X8ProUpdates/9) |
 | **PixelOS** | Android 17 | [Khayloaf](https://t.me/khayloaf) | GApps included | [SourceForge](https://sourceforge.net/projects/kylieerom/files/pixelos/seventeen/PixelOS_klee-17.0-20260822-0944.zip/download) / [PixelDrain](https://pixeldrain.com/u/8u1VQsnj) / [Telegram Post](https://t.me/CilokDiscussion/43135) |
+
+## Modified OS & Firmware Ports
+
+| Name | Platform | Maintainer | Notes | Source |
+| :--- | :--- | :--- | :--- | :--- |
+| **DyperOS** | HyperOS 3.0.304.0 (CN) | [Fiqih Wijaya](https://t.me/Fiqih_wijaya) | Fastboot flashable. Includes Fenrir kernel. `NoModApp` build recommended for 8GB RAM. | [PixelDrain](https://pixeldrain.com/u/Dynnb2CA) / [Telegram Post](https://t.me/WorstDOSMod/283) |
+| **HyperDot** | HyperOS 3.0.303.0 (ID) | [Raka Rizaldy](https://t.me/rakarizaldy) | Includes OrangeFox by default, debloated, modded system apps. Fenrir kernel flashable via OrangeFox Klee Tools. | [SourceForge](https://sourceforge.net/projects/hyperdot/files/HyperOS-STABLE-UPDATES/HyperOS3.0/HyperDot%20Klee%20OS3.303.0%20WPJIDXM.zip/download) / [Telegram Channel](https://t.me/MrDoubleR_Channel) |
+| **ColorOS** | ColorOS 16.0.9 | [KazeTheLight](https://t.me/KazeTheLight) | Ported from OnePlus Ace 5 Ultra. Fastboot flashable. Enroll fingerprint twice. | [Drive](https://drive.google.com/file/d/1LLo6mt5V8yyFlUOd45PWKs3VjGVWHGXj/view?usp=drive_link) / [Telegram Post](https://t.me/Poco_X8ProUpdates) |
 
 ## Resources
 
