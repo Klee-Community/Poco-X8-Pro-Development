@@ -23,11 +23,11 @@ Welcome to the central community repository for POCO X8 Pro (`klee`) custom soft
 * **Telegram Updates Channel:** [Poco X8 Pro Updates](https://t.me/Poco_X8ProUpdates)
 * **Telegram Community Group:** [Poco X8 Pro Community](https://t.me/PocoX8ProCommunity)
 
-## Custom Kernels & Recoveries
+## Kernels & Recoveries
 
-| Type | Name | Maintainer / Credits | Notes | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kernel** | **Fenrir** | [KazeTheLight](https://t.me/KazeTheLight) | Pre-baked in DyperOS/ColorOS ports | [Telegram](https://t.me/Shinlab/1166) |
+| Type | Name | Mantainer | Notes | Source |
+| :--- | :--- | :--- | :-------- | :--- |
+| **Kernel / LK** | **Fenrir** | [KazeTheLight](https://t.me/KazeTheLight) | LK & Preloader patch for Stock HyperOS (ID/CN/GL). Enables Strong Integrity. Requires ENG Preloader & `fastboot -w`. | [Telegram Post](https://t.me/Poco_X8ProUpdates/12) |
 | **Recovery** | **OrangeFox** | [camerado842](https://sourceforge.net/u/camerado84/profile/) | OFRP build for Android 16 / GKI | [SourceForge](https://www.google.com/url?sa=i&source=web&rct=j&url=https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/klee/OrangeFox-R12.0-Unofficial-klee.img/download&ved=2ahUKEwjRlrKZzsSWAxXPyDgGHZmGCZsQy_kOegYIAAgSEAI&opi=89978449&cd&psig=AOvVaw0PmEpdztAlpzu5wi0QEYwr&ust=1788050736973000) |
 
 ## Official Stock Firmware (Unbrick & Relock)
