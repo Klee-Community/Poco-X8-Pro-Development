@@ -46,6 +46,11 @@ Welcome to the central community repository for POCO X8 Pro (`klee`) custom soft
    fastboot -w
    fastboot reboot
 
+> 💡 **Fenrir Security & Flashing Rules:**
+> * **Rooting:** Patch `init_boot` with KernelSU only. Do **NOT** flash custom GKI kernels on Fenrir setups.
+> * **Data Wipe Mandate:** Moving between Fenrir and non-Fenrir builds strictly requires a full data format (`fastboot -w`).
+> * **Detection Limits:** Fenrir handles hardware lock spoofing (`MEETS_STRONG_INTEGRITY` & Widevine L1). To hide root/custom ROM files from strict banking apps, pair it with **Hide My Applist (HMA)** and **SuSFS**.
+
 ## Official Stock Firmware (Unbrick & Relock)
 
 > ⚠️ **Important:** Only relock your bootloader after flashing the official stock Fastboot firmware (`.tgz`) matching your phone's physical hardware region (e.g., `MI` for Global). Never lock on custom ROMs.
