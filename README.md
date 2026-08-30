@@ -45,11 +45,6 @@
 | **HyperDot** | HyperOS 3.0.303.0 (ID) | [Raka Rizaldy](https://t.me/rakarizaldy) | Includes OrangeFox by default, debloated, modded system apps. Fenrir kernel flashable via OrangeFox Klee Tools. | [SourceForge](https://sourceforge.net/projects/hyperdot/files/HyperOS-STABLE-UPDATES/HyperOS3.0/HyperDot%20Klee%20OS3.303.0%20WPJIDXM.zip/download) / [Telegram Channel](https://t.me/MrDoubleR_Channel) |
 | **ColorOS** | ColorOS 16.0.9 | [KazeTheLight](https://t.me/KazeTheLight) | Ported from OnePlus Ace 5 Ultra. Fastboot flashable. Enroll fingerprint twice. | [Drive](https://drive.google.com/file/d/1LLo6mt5V8yyFlUOd45PWKs3VjGVWHGXj/view?usp=drive_link) / [Telegram Post](https://t.me/Poco_X8ProUpdates) |
 
-## Resources
-
-* **Telegram Updates Channel:** [Poco X8 Pro Updates](https://t.me/Poco_X8ProUpdates)
-* **Telegram Community Group:** [Poco X8 Pro Community](https://t.me/PocoX8ProCommunity)
-
 ## Kernels & Recoveries
 
 | Type | Name | Mantainer | Notes | Source |
