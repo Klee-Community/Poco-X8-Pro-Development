@@ -2,8 +2,20 @@
   <img width="200" height="200" alt="1000006476" src="https://github.com/user-attachments/assets/207e870e-f6cc-421a-85df-a766ae11def9" />
 
   # POCO X8 Pro (klee) Custom ROMs & Development Hub
-  Welcome to the central community repository for POCO X8 Pro (`klee`) custom software, ROM indexes, and development resources.
+  Welcome to the central community repository for POCO X8 Pro custom software, ROM indexes, and development resources.
 </div>
+
+<details>
+<summary>📱 <b>Hardware Specs</b></summary>
+
+| Parameter | Specification |
+| :--- | :--- |
+| **Architecture** | MediaTek Dimensity (ARM64-v9a) |
+| **Kernel Base** | Linux 6.6.x (GKI) |
+| **Dynamic Partitions** | EROFS / Virtual A/B (VAB) |
+| **Default Security** | TEE Hardware Attestation |
+
+</details>
 
 ## Official ROMs
 
