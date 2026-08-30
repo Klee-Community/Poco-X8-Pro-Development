@@ -30,6 +30,15 @@ Welcome to the central community repository for POCO X8 Pro (`klee`) custom soft
 | **Kernel / LK** | **Fenrir** | [KazeTheLight](https://t.me/KazeTheLight) | LK & Preloader patch for Stock HyperOS (ID/CN/GL). Enables Strong Integrity. Requires ENG Preloader & `fastboot -w`. | [Telegram Post](https://t.me/Poco_X8ProUpdates/12) |
 | **Recovery** | **OrangeFox** | [camerado842](https://sourceforge.net/u/camerado84/profile/) | OFRP build for Android 16 / GKI | [SourceForge](https://www.google.com/url?sa=i&source=web&rct=j&url=https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/klee/OrangeFox-R12.0-Unofficial-klee.img/download&ved=2ahUKEwjRlrKZzsSWAxXPyDgGHZmGCZsQy_kOegYIAAgSEAI&opi=89978449&cd&psig=AOvVaw0PmEpdztAlpzu5wi0QEYwr&ust=1788050736973000) |
 
+### ⚠️ Fenrir Flashing Guide (Stock HyperOS Only)
+
+> **Warning:** Fenrir modifies low-level `lk` and `preloader` partitions. Back up your stock `lk.img` before proceeding. Requires a data wipe.
+
+1. **Prerequisites:** Must be on Stock HyperOS (Bases: `3.302.0 ID`, `3.304.0 CN`, or `3.304.0 GL`).
+2. **Flash ENG Preloader:** 
+   ```bash
+   fastboot flash preloader_ab eng_preloader.bin
+
 ## Official Stock Firmware (Unbrick & Relock)
 
 > ⚠️ **Important:** Only relock your bootloader after flashing the official stock Fastboot firmware (`.tgz`) matching your phone's physical hardware region (e.g., `MI` for Global). Never lock on custom ROMs.
