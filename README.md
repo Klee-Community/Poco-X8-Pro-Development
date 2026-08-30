@@ -12,8 +12,7 @@
 | **Halcyon** | Android 16 | [Khayloaf](https://t.me/khayloaf) | GApps & Vanilla available | [Download](https://get.hlcyn.org/builds/klee) |
 | **Infinity X** | Android 16 | [bezke](https://t.me/bezke1) | Integrated Fenrir for native integrity. Requires Fenrir boot/vendor_boot | [Download](https://projectinfinity-x.com/downloads/klee) / [Telegram Post](https://t.me/Poco_X8ProUpdates/13) |
 
-
-## Community ROMs (AOSP)
+## Unofficial ROMs
 
 | Name | Platform | Maintainer | Notes | Source |
 | :--- | :--- | :--- | :--- | :--- |
