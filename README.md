@@ -6,7 +6,8 @@ Welcome to the central community repository for POCO X8 Pro (`klee`) custom soft
 | Name | Platform | Maintainer | Notes | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | **Halcyon** | Android 16 | [Khayloaf](https://t.me/khayloaf) | GApps & Vanilla available | [Download](https://get.hlcyn.org/builds/klee) |
-| **Infinity X** | Android 16 | [bezke](https://t.me/bezke1) | Backlight features confirmed. GApps & Vanilla available | [Download](https://projectinfinity-x.com/downloads/klee) |
+| **Infinity X** | Android 16 | [bezke](https://t.me/bezke1) | Integrated Fenrir for native integrity. GApps & Vanilla available. | [Download](https://projectinfinity-x.com/downloads/klee) / [Telegram Post](https://t.me/Poco_X8ProUpdates/13) |
+
 
 ## Community ROMs
 
