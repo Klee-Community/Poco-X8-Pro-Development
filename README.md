@@ -5,6 +5,12 @@
   Welcome to the central community repository for POCO X8 Pro custom software, ROM indexes, and development resources.
 </div>
 
+<p align="center">
+  <a href="https://t.me/Poco_X8ProUpdates"><img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/PocoX8ProCommunity"><img src="https://img.shields.io/badge/Telegram-Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+
 <details>
 <summary>📱 <b>Hardware Specs</b></summary>
 
