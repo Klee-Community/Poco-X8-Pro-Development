@@ -10,7 +10,7 @@ Welcome to the central community repository for POCO X8 Pro (`klee`) custom soft
 
 ## Community ROMs
 
-| Name | Platform | Mantainer | Notes | Source |
+| Name | Platform | Maintainer | Notes | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | **DyperOS** | HyperOS 3.0.304.0 (CN) | [Fiqih Wijaya](https://t.me/Fiqih_wijaya) | Fastboot flashable. Includes Fenrir kernel. `NoModApp` build recommended for 8GB RAM. | [PixelDrain](https://pixeldrain.com/u/Dynnb2CA) / [Telegram Post](https://t.me/WorstDOSMod/283)
 | **HyperDot** | HyperOS 3.0.303.0 (ID) | [Raka Rizaldy](https://t.me/rakarizaldy) | Includes OrangeFox by default, debloated, modded system apps. Fenrir kernel flashable via OrangeFox Klee Tools. | [SourceForge](https://sourceforge.net/projects/hyperdot/files/HyperOS-STABLE-UPDATES/HyperOS3.0/HyperDot%20Klee%20OS3.303.0%20WPJIDXM.zip/download) / [Telegram Channel](https://t.me/MrDoubleR_Channel) |
