@@ -3,14 +3,14 @@ Welcome to the central community repository for POCO X8 Pro (`klee`) custom soft
 
 ## Official ROMs
 
-| Name | Base Firmware | Maintainer | Notes | Source |
+| Name | Platform | Maintainer | Notes | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | **Halcyon** | Android 16 | [Khayloaf](https://t.me/khayloaf) | GApps & Vanilla available | [Download](https://get.hlcyn.org/builds/klee) |
 | **Infinity X** | Android 16 | [bezke](https://t.me/bezke1) | Backlight features confirmed. GApps & Vanilla available | [Download](https://projectinfinity-x.com/downloads/klee) |
 
 ## Community ROMs
 
-| Name | Base Firmware | Mantainer | Notes | Source |
+| Name | Platform | Mantainer | Notes | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | **DyperOS** | HyperOS 3.0.304.0 (CN) | [Fiqih Wijaya](https://t.me/Fiqih_wijaya) | Fastboot flashable. Includes Fenrir kernel. `NoModApp` build recommended for 8GB RAM. | [PixelDrain](https://pixeldrain.com/u/Dynnb2CA) / [Telegram Post](https://t.me/WorstDOSMod/283)
 | **HyperDot** | HyperOS 3.0.303.0 (ID) | [raka](https://t.me/rakarizaldy) | Includes OrangeFox by default, debloated, modded system apps. Fenrir kernel flashable via OrangeFox Klee Tools. | [SourceForge](https://sourceforge.net/projects/hyperdot/files/HyperOS-STABLE-UPDATES/HyperOS3.0/HyperDot%20Klee%20OS3.303.0%20WPJIDXM.zip/download) / [Telegram Channel](https://t.me/MrDoubleR_Channel) |
