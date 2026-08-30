@@ -16,8 +16,9 @@ Welcome to the central community repository for POCO X8 Pro (`klee`) custom soft
 | **HyperDot** | HyperOS 3.0.303.0 (ID) | [raka](https://t.me/rakarizaldy) | Includes OrangeFox by default, debloated, modded system apps. Fenrir kernel flashable via OrangeFox Klee Tools. | [SourceForge](https://sourceforge.net/projects/hyperdot/files/HyperOS-STABLE-UPDATES/HyperOS3.0/HyperDot%20Klee%20OS3.303.0%20WPJIDXM.zip/download) / [Telegram Channel](https://t.me/MrDoubleR_Channel) |
 | **ColorOS** | ColorOS 16.0.9 | [KazeTheLight](https://t.me/KazeTheLight) | Ported from OnePlus Ace 5 Ultra. Fastboot flashable. Enroll fingerprint twice. | [Drive](https://drive.google.com/file/d/1LLo6mt5V8yyFlUOd45PWKs3VjGVWHGXj/view?usp=drive_link) / [Telegram Post](https://t.me/Poco_X8ProUpdates) |
 | **Shinkai** | Android 17 | [Khayloaf](https://t.me/khayloaf) | Community build (Heptakaideka). Signed & enforcing. GApps included; do not swap kernel. | [SourceForge](https://sourceforge.net/projects/kylieerom/files/Shinkai/heptakaideka/Shinkai-Project_klee-heptakaideka-20260829-1057.zip/download) / [PixelDrain](https://pixeldrain.com/u/3h7qr9RT) / [Telegram Post](https://t.me/Poco_X8ProUpdates/9) |
+| **PixelOS** | Android 17 | [Khayloaf](https://t.me/khayloaf) | GApps included | [SourceForge](https://sourceforge.net/projects/kylieerom/files/pixelos/seventeen/PixelOS_klee-17.0-20260822-0944.zip/download) / [PixelDrain](https://pixeldrain.com/u/8u1VQsnj) / [Telegram Post](https://t.me/CilokDiscussion/43135) |
 
-## Development Resources
+## Resources
 
 * **Telegram Updates Channel:** [Poco X8 Pro Updates](https://t.me/Poco_X8ProUpdates)
 * **Telegram Community Group:** [Poco X8 Pro Community](https://t.me/PocoX8ProCommunity)
