@@ -38,6 +38,13 @@ Welcome to the central community repository for POCO X8 Pro (`klee`) custom soft
 2. **Flash ENG Preloader:** 
    ```bash
    fastboot flash preloader_ab eng_preloader.bin
+3. **Flash Fenrir LK**
+   ```bash
+   fastboot flash lk_ab fenrir_lk.img
+5. **Wipe & Reboot**
+   ```bash
+   fastboot -w
+   fastboot reboot
 
 ## Official Stock Firmware (Unbrick & Relock)
 
