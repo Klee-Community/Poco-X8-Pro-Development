@@ -76,8 +76,8 @@
 ## Official Stock Firmware (Unbrick & Relock)
 
 > ⚠️ **Important:** Only relock your bootloader after flashing the official stock Fastboot firmware (`.tgz`) matching your phone's physical hardware region (e.g., `MI` for Global). Never lock on custom ROMs.
-* **Latest Global Firmware (`MI`):** `3.0.306.0.WPJMIXM`
-* **Latest China Firmware (`CN`):** `3.0.304.0.WPJCNXM`
+* **Latest Global Firmware (`MI`):** `3.0.307.0.WPJMIXM`
+* **Latest China Firmware (`CN`):** `3.0.306.0.WPJCNXM`
 ## Play Integrity & Banking Setup
 To pass Play Integrity (`MEETS_DEVICE_INTEGRITY`) when running root on custom ROMs:
 1. **Root Engine:** Use **KernelSU-Next** (v3.3.0+) or **APatch**.
